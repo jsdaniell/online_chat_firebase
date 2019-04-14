@@ -5,16 +5,13 @@ Small app using firebase functionality to authenticate, storage data and storage
 ## Dependencies of the project
 
 These dependencies have to be on pubspec.yaml on flutter project.
-
- cloud_firestore: ^0.8.2+3
- 
- google_sign_in: ^3.2.4
- 
- firebase_auth: ^0.6.2+1
- 
- firebase_storage: ^1.0.4
- 
- image_picker: ^0.4.12+1
+```dart
+cloud_firestore: ^0.8.2+3
+google_sign_in: ^3.2.4
+firebase_auth: ^0.6.2+1
+firebase_storage: ^1.0.4
+image_picker: ^0.4.12+1
+ ```
  
 
 ## Some observations
