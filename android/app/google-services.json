@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "957287602553",
+    "firebase_url": "https://onlinechatwithflutter.firebaseio.com",
+    "project_id": "onlinechatwithflutter",
+    "storage_bucket": "onlinechatwithflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957287602553:android:8f9aad9ead9b1325",
+        "android_client_info": {
+          "package_name": "com.jsdaniell.online_chat_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957287602553-e1r522qtk8ecqq0t3ki13khuhtgl15tl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jsdaniell.online_chat_firebase",
+            "certificate_hash": "3c78128f2114a1ca047ada5cd59c77daa146f5cc"
+          }
+        },
+        {
+          "client_id": "957287602553-n5q9nl3uan72cdb8nj4n2cvbss4nff6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbYMYhJv86HgYnaI0DQJBSrQqnUf6-D5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957287602553-n5q9nl3uan72cdb8nj4n2cvbss4nff6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
